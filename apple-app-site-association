@@ -5,6 +5,10 @@
 			{
 				"appID": "ARDNNTMC7K.com.boeing.VMSClient",
 				"paths": ["/enroll/signup/"]
+			},
+			{
+				"appID": "ARDNNTMC7K.com.boeing.VMSClientTest",
+				"paths": ["/enroll/signup/"]
 			}
 		]
 	}
