@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
+				"appID": "ARDNNTMC7K.com.boeing.VMSClient",
+				"paths": ["/enroll/signup/"]
 			}
 		]
 	}
