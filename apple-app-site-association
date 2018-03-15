@@ -3,10 +3,6 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "ARDNNTMC7K.com.boeing.VMSClient",
-				"paths": ["/enroll/signup/*"]
-			},
-			{
 				"appID": "ARDNNTMC7K.com.boeing.VMSClientTest",
 				"paths": ["/enroll/signup/*"]
 			},
@@ -26,7 +22,6 @@
 				"appID": "D47J8F9NFA.com.boeing.VMSClient1",
 				"paths": ["/enroll/signup/*"]
 			}
-
 		]
 	}
 }
